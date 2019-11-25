@@ -1,0 +1,39 @@
+airport terminal
+apartment building outdoor
+arch
+auditorium
+barn
+beach
+bedroom
+castle
+classroom
+conference room
+dam
+desert
+football stadium
+pyramid
+hotel room
+kitchen
+library
+mountain
+office
+phone booth
+reception
+restaurant
+river
+school house
+shower
+skyscraper
+supermarket
+waiting room
+water tower
+windmill
+camel
+cactus
+umbrella
+airplane
+dolphin
+fish
+sand castle
+light house
+
